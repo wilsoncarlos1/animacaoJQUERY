@@ -1,0 +1,30 @@
+body{
+	border-collapse: 1px;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	outline: none;
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	background: #666;
+	border: 1px solid #000;
+	display: none;
+	position: relative;
+}
+.box2{
+	width: 100px;
+	height: 100px;
+	border: 1px solid#666;
+	position: relative;
+}
+canvas{
+	width: 600px;
+	height: 400px;
+	border: 1px solid;
+}
